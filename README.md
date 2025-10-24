@@ -1,4 +1,4 @@
-# QuantPEGY: Macro Regime-Aware Factor Investing Strategy
+# QuantPEGY: Multi-Region Macro-Aware Factor Engine
 
 QuantPEGY is a dynamic factor-based portfolio construction engine that selects undervalued, fundamentally strong stocks using the PEGY (P/E-to-Growth + Dividend Yield) ratio. This version incorporates macroeconomic regime detection to adjust investment strategies contextually (risk-on, risk-off, neutral).
 
