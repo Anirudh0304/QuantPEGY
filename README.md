@@ -90,6 +90,4 @@ After successful execution, you will see:
 
 > Future versions will include dynamic **IC-weighted factors**, regime-specific strategies, and transaction cost modeling.
 
-
-QuantPEGY Portfolio Engine | Developed by [Your Name]  
-For queries or contributions, please contact: [your.email@example.com]
+For queries or contributions, please contact: [kondurianirudh0304@gmail.com]
